@@ -16,4 +16,3 @@ while True:
         x = i.find('count').text
         total = total + int(x)
     print('Sum: ', total)
-#Complete
